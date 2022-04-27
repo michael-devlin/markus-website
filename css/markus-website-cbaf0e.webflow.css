@@ -266,6 +266,7 @@ figcaption {
   -webkit-text-fill-color: inherit;
   -o-object-fit: fill;
   object-fit: fill;
+  max-width: 100%;
 }
 
 .section.main.page-wrap {
@@ -1524,6 +1525,7 @@ figcaption {
     -webkit-justify-content: flex-start;
     -ms-flex-pack: start;
     justify-content: flex-start;
+    background-position: center;
   }
 
   .main-h1 {
@@ -1541,7 +1543,7 @@ figcaption {
   }
 
   .main-h1.home {
-    font-size: 18vh;
+    font-size: 14.5vh;
     line-height: 15vh;
   }
 
