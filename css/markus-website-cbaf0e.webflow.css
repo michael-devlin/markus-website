@@ -1775,6 +1775,12 @@ figcaption {
     -ms-flex-align: center;
     align-items: center;
   }
+
+  .image-9 {
+    margin-top: 22px;
+    margin-bottom: 14px;
+    display: none;
+  }
 }
 
 @media screen and (max-width: 479px) {
