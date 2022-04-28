@@ -5,3 +5,7 @@ The layout was originally designed in Webflow with the code exported from there 
 ## Dependencies:
 
 Node JS
+
+## Hosting:
+
+Google Domains via GitHub Pages
