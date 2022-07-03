@@ -1,5 +1,11 @@
-# markus-website
+# Professional Website for Renard (Musician)
 
-## Professional Website for Markus Reinhardt
+The layout was originally designed in Webflow with the code exported from there to add aditional custom HTML/CSS.
 
-Work in progress!
+## Dependencies:
+
+Node JS
+
+## Hosting:
+
+Google Domains via GitHub Pages
