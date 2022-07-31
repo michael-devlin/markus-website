@@ -270,7 +270,7 @@ figcaption {
 }
 
 .section.main.page-wrap {
-  background-image: url('../images/image001.jpeg'), url('../images/image001.jpeg');
+  /* background-image: url('../images/image001.jpeg'), url('../images/image001.jpeg'); */
   background-position: 0px 0px, 0px 0px;
   background-size: cover, auto;
   background-attachment: scroll, fixed;
@@ -1786,6 +1786,16 @@ figcaption {
 }
 
 @media screen and (max-width: 479px) {
+
+  .navbar {
+    position: fixed;
+    width: 100%;
+    height: auto;
+    margin-top: -30px;
+    padding: 2vh 2vw 0vh;
+    background-color: transparent;
+  }
+
   h2 {
     font-size: 30px;
     line-height: 40px;
